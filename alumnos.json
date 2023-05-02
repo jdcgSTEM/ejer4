@@ -1,0 +1,10 @@
+[
+    {"Cuenta": 1231221, "AlCorriente": false, "Carrera": "Arquitectura", "Nombre": "Pedro", "PrimerApellido": "Solis", "Promedio": 7.8, "Semestre": 3, "SegundoApellido": "Cabañas"
+    },
+    {"Cuenta": 1231222, "AlCorriente": false, "Carrera": "Actuarada", "Nombre": "Yolanda", "PrimerApellido": "Jiménez", "SegundoApellido": "Lerdo", "Promedio": 6, "Semestre": 3
+    },
+    {"Cuenta": 1231223, "AlCorriente": true, "Carrera": "Sistemas", "Nombre": "Juan", "PrimerApellido": "Ramos", "SegundoApellido": "Breña", "Promedio": 8.6, "Semestre": 9
+    },
+    {"Cuenta": 1231224, "AlCorriente": true, "Carrera": "Derecho", "Nombre": "Mayra Jimena", "PrimerApellido": "Cervantes", "SegundoApellido": "Lisama", "Promedio": 9.2, "Semestre": 12
+    }
+]
