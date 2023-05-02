@@ -4,7 +4,7 @@ const app = express()
 const port = 8080
 
 app.get('/', (req, res) =>{
-    res.send("Ve al endpoint /calcular para más información.")
+    res.send("Ve al endpoint /alumnos para más información.")
 })
 
 app.get('/alumnos', (req, res) =>{
